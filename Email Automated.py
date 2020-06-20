@@ -26,7 +26,7 @@ for index, row in df.iterrows():
     
     subject = 'Business Proposal'
     # Content can be in html format or plain text ( Use html format to format text)
-    content_txt = ' Enter your content here /n This is Easy'
+    content_txt = "Hi "+Name+",\nHow are you ? \nThank you,\nYadnesh\n"+str(user)
     attachment1 = 'Service Price List.pdf'
     
     ### Define email ###

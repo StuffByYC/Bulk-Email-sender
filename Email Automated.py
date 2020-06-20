@@ -21,7 +21,7 @@ for index, row in df.iterrows():
     #Enter your Application password check https://support.google.com/accounts/answer/185833?hl=en to get Application Password for Gmail
     app_password = "Enter app password here"
     host = 'smtp.gmail.com'
-    port = 465
+    port = 466
     to = Email
     
     subject = 'Business Proposal'
